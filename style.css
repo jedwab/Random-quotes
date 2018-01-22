@@ -10,11 +10,9 @@ body {
     justify-content: center;
     align-items: center;
 }
-
 main {
 	margin: 50px auto;
 }
-
 button {
 	background-color: transparent;
 	border: 1px solid #fff;
